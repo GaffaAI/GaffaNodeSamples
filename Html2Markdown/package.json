@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node html_2_markdown.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "openai": "^4.0.0"
+  }
+}
